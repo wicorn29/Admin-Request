@@ -8,4 +8,5 @@ This is a simple proximity engine for windows where you have to slide a slider t
 * Right click on the link to "adminproximity.exe" on your desktop and select "properties"
 * Click on the "Hidden" checkbox
 * Click "Apply"
+
 The link shoud have dissapeared from your desktop. If it did, you have set Windows Admin Request up sucessfully.
